@@ -6,6 +6,10 @@
     <Nullable>enable</Nullable>
     <StaticWebAssetBasePath>/</StaticWebAssetBasePath>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="assets\src\assets\" />
+  </ItemGroup>
   
   
 

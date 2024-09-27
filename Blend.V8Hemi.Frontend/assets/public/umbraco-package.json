@@ -1,0 +1,23 @@
+{    
+  "id": "Blend.V8Hemi",
+  "name": "Blend.V8Hemi",
+  "allowPackageTelemetry": true,
+  "extensions": [
+    {
+      "type": "dashboard",
+      "alias": "blend.v8hemi",
+      "name": "Blend V8 Hemi",
+      "element": "/app_plugins/blend.v8hemi.frontend/assets.js",
+      "meta": {
+        "label": "V8 Hemi",
+        "pathname": "blendv8hemi"
+      },
+      "conditions": [
+        {
+          "alias": "Umb.Condition.SectionAlias",
+          "match": "Umb.Section.Content"
+        }
+      ]
+    }
+  ]
+}
