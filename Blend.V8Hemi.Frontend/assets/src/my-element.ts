@@ -52,7 +52,7 @@ export default class MyElement extends LitElement {
         <div class="card">
           <button @click=${this._onClick} class="ignition" part="button">
             <img src=${this.buttonImage} class="ignitionButton" alt="Engine Start Stop" style="max-width: 200px;" /><br />
-            0941 count is ${this.count}
+            1252 count is ${this.count}
           </button>
         </div>
         <p class="read-the-docs">${this.docsHint}</p>
