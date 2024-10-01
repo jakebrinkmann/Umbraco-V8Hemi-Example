@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
+    <ProjectReference Include="..\Blend.V8Hemi.Backend\Blend.V8Hemi.Backend.csproj" />
     <ProjectReference Include="..\Blend.V8Hemi.Common\Blend.V8Hemi.Common.csproj" />
     <ProjectReference Include="..\Blend.V8Hemi.Frontend\Blend.V8Hemi.Frontend.csproj" />
   </ItemGroup>

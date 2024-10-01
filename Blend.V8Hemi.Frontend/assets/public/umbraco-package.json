@@ -1,4 +1,5 @@
 {    
+  "$schema": "../../Blend.V8Hemi/umbraco-package-schema.json",
   "id": "Blend.V8Hemi",
   "name": "Blend.V8Hemi",
   "allowPackageTelemetry": true,
