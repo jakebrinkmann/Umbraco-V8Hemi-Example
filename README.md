@@ -8,6 +8,18 @@ This package is intended to offer an opinionated example that is set up for long
 multiple Umbraco versions. Hopefully it can serve as a bridge between "Hello World" packages and a
 full-fledged maintainable project. 
 
+## What's In This Project
+
+We're going to learn how to modify Umbraco in the same way decades of tinkerers have learned how to modify cars: 
+_we're putting a Hemi in it_. This is just a fun basic example that demonstrates the following extension points:
+
+* Adding custom configuration
+* Including custom services and controllers
+* Adding a new OpenAPI-compatible endpoint, securing it, generating documentation and client code
+* A custom dashboard view
+* Custom Web Component using Lit
+* How to structure a project for supporting multiple target versions
+
 ## Sources and Examples
 
 This project draws from a lot of other example projects that you may find useful: 
