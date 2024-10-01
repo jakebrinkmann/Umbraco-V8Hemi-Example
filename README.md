@@ -11,7 +11,11 @@ full-fledged maintainable project.
 ## What's In This Project
 
 We're going to learn how to modify Umbraco in the same way decades of tinkerers have learned how to modify cars: 
-_we're putting a Hemi in it_. This is just a fun basic example that demonstrates the following extension points:
+_**we're puttin' a Hemi in it!**_
+
+![Screenshot of the Umbraco Admin with a custom UI featuring a V8 Hemi Engine](/assets/screenshot.png)
+
+This is just a fun basic example that demonstrates the following extension points:
 
 * Adding custom configuration
 * Including custom services and controllers
