@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StaticWebAssetBasePath>/</StaticWebAssetBasePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Blend.V8Hemi.Common\Blend.V8Hemi.Common.csproj" />
+    <ProjectReference Include="..\Blend.V8Hemi.Frontend\Blend.V8Hemi.Frontend.csproj" />
+  </ItemGroup>
+  
+  
+
+</Project>
